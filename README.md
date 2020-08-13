@@ -130,3 +130,18 @@ Helpful libraries for building views in react
 
 ## Performant lists
 - react list https://github.com/coderiety/react-list
+
+## Error handling
+- react error boundary (wrapper) https://github.com/bvaughn/react-error-boundary
+
+## Social Media share components
+- react share https://github.com/nygardk/react-share
+
+## Auth
+- auth0 https://auth0.com/docs/quickstart/spa/react/01-login
+- firebase https://github.com/FirebaseExtended/reactfire
+- cognito https://github.com/isotoma/react-cognito
+
+## Clientside Routing
+- react-router https://reactrouter.com/
+- Next.js https://nextjs.org/
