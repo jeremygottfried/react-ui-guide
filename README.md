@@ -128,4 +128,5 @@ Helpful libraries for building views in react
 - react-mic https://github.com/hackingbeauty/react-mic
 - react-audio-recorder https://github.com/danrouse/react-audio-recorder
 
-## Record video 
+## Performant lists
+- react list https://github.com/coderiety/react-list
