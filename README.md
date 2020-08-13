@@ -46,7 +46,7 @@ Helpful libraries for building views in react
 ## Icons
 - octicons https://github.com/primer/octicons/tree/master/lib/octicons_react
 - react-icons https://github.com/react-icons/react-icons
-- react-icons-kit
+- react-icons-kit https://react-icons-kit.now.sh/
 
 ## Multistep forms
 - albus https://github.com/americanexpress/react-albus
@@ -62,15 +62,70 @@ Helpful libraries for building views in react
 - Stripe https://stripe.com/docs/stripe-js/react
 - Paypal https://github.com/Luehang/react-paypal-button-v2
 
+## Data visualizations
+- React chart https://github.com/reactjs/react-chartjs
+- recharts https://github.com/recharts/recharts
+- victory https://github.com/FormidableLabs/victory
+- nivo https://github.com/plouc/nivo
+- react-vis https://github.com/uber/react-vis
+
 ## Text editors
 - Alloy https://github.com/liferay/alloy-editor
 - Slate https://github.com/ianstormtaylor/slate
 
 ## Alerts (also most of the kits at the beginning have alert components)
-- https://github.com/schiehll/react-alert
+- alert https://github.com/schiehll/react-alert
 
 ## Calendars
 - calendar https://github.com/react-component/calendar
 - infinite calendar https://github.com/clauderic/react-infinite-calendar
 - react-calendar https://github.com/wojtekmaj/react-calendar
 - big-scheduler https://github.com/StephenChou1017/react-big-scheduler
+
+## Detect Scroll
+- scroll trigger https://github.com/ryanhefner/react-scroll-trigger
+
+## Phone input
+- react phone input https://github.com/catamphetamine/react-phone-number-input
+
+## Address input
+- react places autocomplete https://github.com/hibiken/react-places-autocomplete
+
+## Portal
+- react-portal https://github.com/tajo/react-portal
+
+## Copy to clipboard
+- clipboard https://github.com/nihey/react-clipboard.js
+- copy-to-clipboard https://github.com/nkbt/react-copy-to-clipboard
+
+## Modal
+- react modal https://github.com/reactjs/react-modal
+
+## Tabs
+- https://github.com/reactjs/react-tabs
+
+## Autocomplete
+- https://github.com/reactjs/react-autocomplete
+
+## Drawing
+- canvas draw https://github.com/embiem/react-canvas-draw
+- react art https://github.com/reactjs/react-art
+
+## Clock
+- react clock https://github.com/wojtekmaj/react-clock
+- react live clock https://github.com/pvoznyuk/react-live-clock
+
+## Photos
+- react-photo-gallery https://github.com/neptunian/react-photo-gallery
+- react-image-gallery https://github.com/xiaolin/react-image-gallery
+- react-responsive-carousel https://github.com/leandrowd/react-responsive-carousel
+
+## Embedded videos
+- react-player https://github.com/CookPete/react-player
+- video-react https://github.com/video-react/video-react
+
+## Record audio
+- react-mic https://github.com/hackingbeauty/react-mic
+- react-audio-recorder https://github.com/danrouse/react-audio-recorder
+
+## Record video 
