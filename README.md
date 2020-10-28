@@ -11,6 +11,7 @@ Helpful libraries for building views in react
 - react-spring https://www.react-spring.io/
 - react transition group https://reactcommunity.org/react-transition-group/
 - react motion https://github.com/chenglou/react-motion
+- flubber https://github.com/veltman/flubber
 
 ## Canvas
 - react-canvas https://github.com/Flipboard/react-canvas
