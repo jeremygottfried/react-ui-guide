@@ -64,6 +64,7 @@ Helpful libraries for building views in react
 - Paypal https://github.com/Luehang/react-paypal-button-v2
 
 ## Data visualizations
+- VisX https://github.com/airbnb/visx#readme
 - React chart https://github.com/reactjs/react-chartjs
 - recharts https://github.com/recharts/recharts
 - victory https://github.com/FormidableLabs/victory
