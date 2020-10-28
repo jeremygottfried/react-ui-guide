@@ -30,6 +30,9 @@ Helpful libraries for building views in react
 ## Drag and drop grid
 - react grid layout https://github.com/STRML/react-grid-layout
 
+## Gestures (drag, pinch, scroll, etc)
+- react-use-gesture https://github.com/pmndrs/react-use-gesture
+
 ## Resize
 - resizable https://github.com/STRML/react-resizable
 - re-resizable https://github.com/bokuweb/re-resizable
