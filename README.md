@@ -35,6 +35,7 @@ Helpful libraries for building views in react
 - re-resizable https://github.com/bokuweb/re-resizable
 
 ## Detecting device/view size
+- react-measure https://github.com/souporserious/react-measure
 - react-sizes https://github.com/renatorib/react-sizes
 - react-device-detect https://github.com/duskload/react-device-detect
 - react-resize-detector https://github.com/maslianok/react-resize-detector
