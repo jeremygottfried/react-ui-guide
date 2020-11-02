@@ -52,6 +52,7 @@ Helpful libraries for building views in react
 - octicons https://github.com/primer/octicons/tree/master/lib/octicons_react
 - react-icons https://github.com/react-icons/react-icons
 - react-icons-kit https://react-icons-kit.now.sh/
+- feather https://github.com/feathericons/react-feather
 
 ## Multistep forms
 - albus https://github.com/americanexpress/react-albus
