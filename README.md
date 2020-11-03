@@ -90,6 +90,7 @@ Helpful libraries for building views in react
 - big-scheduler https://github.com/StephenChou1017/react-big-scheduler
 
 ## Detect Scroll
+- React visibility sensor https://github.com/joshwnj/react-visibility-sensor
 - scroll trigger https://github.com/ryanhefner/react-scroll-trigger
 
 ## Phone input
