@@ -99,6 +99,9 @@ Helpful libraries for building views in react
 ## Address input
 - react places autocomplete https://github.com/hibiken/react-places-autocomplete
 
+## Select input (all the ui kits have their own select too)
+- react select https://github.com/JedWatson/react-select
+
 ## Portal
 - react-portal https://github.com/tajo/react-portal
 
