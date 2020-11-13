@@ -70,6 +70,7 @@ Helpful libraries for building views in react
 
 ## Data visualizations
 - VisX https://github.com/airbnb/visx#readme
+- D3 react https://github.com/react-d3-library/react-d3-library
 - React chart https://github.com/reactjs/react-chartjs
 - recharts https://github.com/recharts/recharts
 - victory https://github.com/FormidableLabs/victory
