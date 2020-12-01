@@ -128,6 +128,9 @@ Helpful libraries for building views in react
 - react live clock https://github.com/pvoznyuk/react-live-clock
 - react countdown https://www.npmjs.com/package/react-countdown
 
+## Counting
+- react countup https://github.com/glennreyes/react-countup
+
 ## Photos
 - react-photo-gallery https://github.com/neptunian/react-photo-gallery
 - react-image-gallery https://github.com/xiaolin/react-image-gallery
