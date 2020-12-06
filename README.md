@@ -149,6 +149,7 @@ Helpful libraries for building views in react
 
 ## Performant lists
 - react list https://github.com/coderiety/react-list
+- react flip move https://github.com/joshwcomeau/react-flip-move
 
 ## Error handling
 - react error boundary (wrapper) https://github.com/bvaughn/react-error-boundary
