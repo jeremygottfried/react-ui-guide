@@ -54,6 +54,9 @@ Helpful libraries for building views in react
 - react-icons-kit https://react-icons-kit.now.sh/
 - feather https://github.com/feathericons/react-feather
 
+## Avatar
+- react avater https://www.npmjs.com/package/react-avatar
+
 ## Multistep forms
 - albus https://github.com/americanexpress/react-albus
 - react-multistep https://github.com/srdjan/react-multistep
