@@ -168,3 +168,6 @@ Helpful libraries for building views in react
 
 ## Anchor tags
 - react scrollable anchor https://github.com/gabergg/react-scrollable-anchor
+
+## Click Outside of Element
+- Click away listener https://material-ui.com/components/click-away-listener/
