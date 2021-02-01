@@ -57,6 +57,9 @@ Helpful libraries for building views in react
 ## Avatar
 - react avater https://www.npmjs.com/package/react-avatar
 
+## Mobile mockups
+- react-device-mockups https://github.com/kajchang/react-device-mockups
+
 ## Multistep forms
 - albus https://github.com/americanexpress/react-albus
 - react-multistep https://github.com/srdjan/react-multistep
