@@ -146,6 +146,9 @@ Helpful libraries for building views in react
 - react-player https://github.com/CookPete/react-player
 - video-react https://github.com/video-react/video-react
 
+## Loading indicator
+react-spinners https://github.com/davidhu2000/react-spinners
+
 ## Progress Bar
 nprogress - https://github.com/tanem/react-nprogress
 
