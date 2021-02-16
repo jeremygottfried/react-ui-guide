@@ -146,6 +146,9 @@ Helpful libraries for building views in react
 - react-player https://github.com/CookPete/react-player
 - video-react https://github.com/video-react/video-react
 
+## Progress Bar
+nprogress - https://github.com/tanem/react-nprogress
+
 ## Record audio
 - react-mic https://github.com/hackingbeauty/react-mic
 - react-audio-recorder https://github.com/danrouse/react-audio-recorder
