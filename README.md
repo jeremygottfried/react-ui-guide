@@ -9,6 +9,7 @@ Helpful libraries for building views in react
 
 ## Animations
 - react-spring https://www.react-spring.io/
+- FLIP technique https://github.com/aholachek/react-flip-toolkit
 - react transition group https://reactcommunity.org/react-transition-group/
 - react motion https://github.com/chenglou/react-motion
 - flubber https://github.com/veltman/flubber
